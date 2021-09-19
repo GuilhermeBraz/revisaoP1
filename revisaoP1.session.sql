@@ -1,0 +1,2 @@
+SELECT nomeCompleto FROM PESSOA;;
+
