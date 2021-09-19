@@ -2,10 +2,11 @@ INSERT INTO PESSOA (
         nomeCompleto,
         sexo,
         dataNascimento,
+        idade,
         responsavel,
         situacaoSaude,
         tipoSanguineo,
-        estado,
-        situacaoGestante
-    )
-VALUES (pedro, M, 2000 -12 -30, mae, S, O -, NULL, NULL);
+        situacaoGestacao,
+        estado
+)
+VALUES('pedro', 'M', '2000-12-12', 20, 'mae', 'S','O-', NULL, NULL);
