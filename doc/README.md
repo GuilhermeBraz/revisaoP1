@@ -38,6 +38,8 @@ Criar uma base de dados para cadastrar pessoas com: nome, sexo, idade(dataNascim
 
 ![de-r](images/der.png)
 
+## Diagrama Logico
+
 ![logico](images/logico.png)
 
 ## ITEM D

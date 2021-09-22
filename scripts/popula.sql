@@ -1,12 +1,10 @@
-INSERT INTO PESSOA (
+INSERT INTO MASCULINO (
         nomeCompleto,
         sexo,
         dataNascimento,
-        idade,
         responsavel,
         situacaoSaude,
-        tipoSanguineo,
-        situacaoGestacao,
-        estado
+        tipo,
+        rh
 )
-VALUES('pedro', 'M', '2000-12-12', 20, 'mae', 'S','O-', NULL, NULL);
+VALUES('pedro', 'M', '2000-12-12', 'mae', 'S','O', '-');
