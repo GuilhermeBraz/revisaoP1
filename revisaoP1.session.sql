@@ -1,2 +1,1 @@
-SELECT nomeCompleto FROM PESSOA;;
-
+DROP TABLE PESSOA;
